@@ -184,9 +184,6 @@ function LandingPage() {
               <p className="text-xl text-gray-300">
                 A simple, intuitive tool that lets you and your team <strong>collaborate on documents, communicate via chat, and jump into video calls—all in one place</strong>.
               </p>
-              <p className="text-xl font-bold text-primary-400 mt-4">
-                ✅ No delays. No hassle. Just productivity.
-              </p>
             </motion.div>
             <motion.div 
               className="mt-8 max-w-md mx-auto sm:flex sm:justify-center md:mt-12"
